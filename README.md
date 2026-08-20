@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/gabrielaredesatf/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gabrielaredestf/">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/gabr1el-aredes011?tab=repositories">Projetos</a>
   &nbsp;•&nbsp;
@@ -285,7 +285,7 @@ Estou em busca da minha primeira oportunidade profissional em tecnologia e abert
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gabrielaredesatf/">
+<a href="https://www.linkedin.com/in/gabrielaredestf/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -294,7 +294,7 @@ Estou em busca da minha primeira oportunidade profissional em tecnologia e abert
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/gabrielaredesatf/"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/gabrielaredestf/"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/gabr1el-aredes011"><strong>GitHub</strong></a>
 </p>
